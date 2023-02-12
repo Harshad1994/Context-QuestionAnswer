@@ -5,7 +5,7 @@ from config import ft_discriminator,ft_qa
 
 
 #uncomment the following like and provide the openai api key
-openai.api_key = "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"
+# openai.api_key = $API_KEY
 
 
 def question_answer_model(context,question):
